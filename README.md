@@ -13,8 +13,8 @@
 - HTML
 - CSS
 ---
-![screenshot]()
+![screenshot](https://github.com/franconienow/Happy/blob/master/screenshots/screenshot1.png)
 ---
-![screenshot]()
+![screenshot](https://github.com/franconienow/Happy/blob/master/screenshots/screenshot2.png)
 ---
-![screenshot]()
+![screenshot](https://github.com/franconienow/Happy/blob/master/screenshots/screenshot3.png)
