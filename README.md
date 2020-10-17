@@ -1,4 +1,4 @@
-# Happy é uma app para encontrar orfanatos e levar alegria para as crianças!
+# Happy é um app para encontrar orfanatos e levar alegria para as crianças!
 ---
 ### Projeto desenvolvido na NLW#3 da Rocketseat.
 ---
